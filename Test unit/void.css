@@ -1,9 +1,9 @@
 /*body*/
 body{
-  mrgin: 0px;
   background: linear-gradient(white, lightgreen);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  border: 2px;
 }
 h1 {
   
