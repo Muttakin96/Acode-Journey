@@ -1,5 +1,6 @@
 /*body*/
 body {
   margin: 0px;
-  background-color: linear-gradient (white, green);
+  background: linear-gradient(white, lightgreen);
+  background-repeat: no-repeat;
 }
