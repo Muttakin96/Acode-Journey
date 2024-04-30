@@ -1,6 +1,10 @@
 /*body*/
-body {
+body{
   margin: 0px;
   background: linear-gradient(white, lightgreen);
   background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+  
 }
